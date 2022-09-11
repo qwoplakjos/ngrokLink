@@ -1,1 +1,1 @@
-https://fd43-217-107-126-76.eu.ngrok.io/
+https://wireguard.poolauth.tk/
